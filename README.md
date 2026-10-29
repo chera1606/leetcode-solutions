@@ -16,6 +16,7 @@
 | [0001-two-sum](https://github.com/chera1606/leetcode-solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/chera1606/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0217-contains-duplicate](https://github.com/chera1606/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [1480-running-sum-of-1d-array](https://github.com/chera1606/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 ## String
 |  |
 | ------- |
@@ -54,4 +55,8 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/chera1606/leetcode-solutions/tree/master/0217-contains-duplicate) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/chera1606/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
