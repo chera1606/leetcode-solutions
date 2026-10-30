@@ -19,6 +19,7 @@
 | [0645-set-mismatch](https://github.com/chera1606/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [1480-running-sum-of-1d-array](https://github.com/chera1606/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/chera1606/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
+| [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/chera1606/leetcode-solutions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 ## String
 |  |
 | ------- |
@@ -54,6 +55,7 @@
 | [0001-two-sum](https://github.com/chera1606/leetcode-solutions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/chera1606/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0645-set-mismatch](https://github.com/chera1606/leetcode-solutions/tree/master/0645-set-mismatch) |
+| [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/chera1606/leetcode-solutions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 ## Sorting
 |  |
 | ------- |
@@ -63,6 +65,7 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/chera1606/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/chera1606/leetcode-solutions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 ## Matrix
 |  |
 | ------- |
