@@ -3,10 +3,7 @@ class Solution:
         occ = {}
 
         for i in arr:
-            occ[i] = occ.get(i,0)+1
-            un = list(occ.values())
-            unS = list(set(un))
-        if len(un) == len(unS):
-            return True
-        return False
+            occ[i] = occ.get(i, 0) + 1
+
+        return len(occ.values()) == len(set(occ.values()))
         
