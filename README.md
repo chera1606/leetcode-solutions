@@ -19,6 +19,7 @@
 | [0014-longest-common-prefix](https://github.com/chera1606/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0169-majority-element](https://github.com/chera1606/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/chera1606/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/chera1606/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/chera1606/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/chera1606/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/chera1606/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -68,6 +69,7 @@
 | [0169-majority-element](https://github.com/chera1606/leetcode-solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/chera1606/leetcode-solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/chera1606/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/chera1606/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/chera1606/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/chera1606/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/chera1606/leetcode-solutions/tree/master/0645-set-mismatch) |
@@ -79,6 +81,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/chera1606/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/chera1606/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/chera1606/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/chera1606/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/chera1606/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/chera1606/leetcode-solutions/tree/master/0645-set-mismatch) |
@@ -107,6 +110,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/chera1606/leetcode-solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/chera1606/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/chera1606/leetcode-solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -120,4 +124,5 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/chera1606/leetcode-solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/chera1606/leetcode-solutions/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
