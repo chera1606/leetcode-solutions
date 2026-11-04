@@ -17,6 +17,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/chera1606/leetcode-solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/chera1606/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0128-longest-consecutive-sequence](https://github.com/chera1606/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/chera1606/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/chera1606/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/chera1606/leetcode-solutions/tree/master/0229-majority-element-ii) |
@@ -66,6 +67,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/chera1606/leetcode-solutions/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/chera1606/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/chera1606/leetcode-solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/chera1606/leetcode-solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/chera1606/leetcode-solutions/tree/master/0217-contains-duplicate) |
@@ -125,4 +127,8 @@
 | ------- |
 | [0169-majority-element](https://github.com/chera1606/leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/chera1606/leetcode-solutions/tree/master/0229-majority-element-ii) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/chera1606/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
