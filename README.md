@@ -36,6 +36,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/chera1606/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/chera1606/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0383-ransom-note](https://github.com/chera1606/leetcode-solutions/tree/master/0383-ransom-note) |
 ## Trie
 |  |
 | ------- |
@@ -74,6 +75,7 @@
 | [0229-majority-element-ii](https://github.com/chera1606/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/chera1606/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/chera1606/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/chera1606/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0645-set-mismatch](https://github.com/chera1606/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [1207-unique-number-of-occurrences](https://github.com/chera1606/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/chera1606/leetcode-solutions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
@@ -113,6 +115,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/chera1606/leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/chera1606/leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [0383-ransom-note](https://github.com/chera1606/leetcode-solutions/tree/master/0383-ransom-note) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/chera1606/leetcode-solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Floyd's Cycle Finding Algorithm
 |  |
