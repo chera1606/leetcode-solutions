@@ -32,6 +32,7 @@
 | [1672-richest-customer-wealth](https://github.com/chera1606/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/chera1606/leetcode-solutions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/chera1606/leetcode-solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/chera1606/leetcode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## String
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/chera1606/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0383-ransom-note](https://github.com/chera1606/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/chera1606/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/chera1606/leetcode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## Trie
 |  |
 | ------- |
@@ -83,6 +85,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/chera1606/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/chera1606/leetcode-solutions/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/chera1606/leetcode-solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/chera1606/leetcode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## Sorting
 |  |
 | ------- |
@@ -94,6 +97,7 @@
 | [0645-set-mismatch](https://github.com/chera1606/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [1200-minimum-absolute-difference](https://github.com/chera1606/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/chera1606/leetcode-solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/chera1606/leetcode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## Prefix Sum
 |  |
 | ------- |
