@@ -17,6 +17,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/chera1606/leetcode-solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/chera1606/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/chera1606/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/chera1606/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/chera1606/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/chera1606/leetcode-solutions/tree/master/0217-contains-duplicate) |
@@ -141,4 +142,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/chera1606/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/chera1606/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
