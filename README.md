@@ -17,6 +17,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/chera1606/leetcode-solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/chera1606/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/chera1606/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chera1606/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/chera1606/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/chera1606/leetcode-solutions/tree/master/0169-majority-element) |
@@ -38,6 +39,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/chera1606/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/chera1606/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/chera1606/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0383-ransom-note](https://github.com/chera1606/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/chera1606/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/chera1606/leetcode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -72,6 +74,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/chera1606/leetcode-solutions/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/chera1606/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/chera1606/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/chera1606/leetcode-solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/chera1606/leetcode-solutions/tree/master/0202-happy-number) |
@@ -89,6 +92,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/chera1606/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/chera1606/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/chera1606/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/chera1606/leetcode-solutions/tree/master/0229-majority-element-ii) |
