@@ -3,6 +3,7 @@ class Solution:
         if not nums:
             return 0
 
+
         nums.sort()
         current = 1
         longest = 1
