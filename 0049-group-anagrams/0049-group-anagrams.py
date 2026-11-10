@@ -1,6 +1,7 @@
 class Solution:
     def groupAnagrams(self, strs: list[str]) -> list[list[str]]:
         anagrams = {}
+         
         for s in strs:
             key = tuple(sorted(s))
             if key not in anagrams:
