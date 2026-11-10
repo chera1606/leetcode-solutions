@@ -1,6 +1,7 @@
 class Solution:
     def removeAnagrams(self, words: list[str]) -> list[str]:
         result = []
+        
         prev_signature = None
         for word in words:
             current_signature = tuple(sorted(word))
