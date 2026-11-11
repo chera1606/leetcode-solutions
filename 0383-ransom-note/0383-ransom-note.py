@@ -1,7 +1,6 @@
 class Solution:
     def canConstruct(self, ransomNote: str, magazine: str) -> bool:
         counts = {}
-
         for char in magazine:
             counts[char] = counts.get(char, 0) + 1
 
