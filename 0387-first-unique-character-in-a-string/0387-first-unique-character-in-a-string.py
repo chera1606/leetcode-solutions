@@ -1,6 +1,5 @@
 class Solution:
     def firstUniqChar(self, s: str) -> int:
-        
         counts = {}
 
         for char in s:
