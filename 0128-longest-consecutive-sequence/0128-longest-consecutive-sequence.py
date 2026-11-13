@@ -2,8 +2,6 @@ class Solution:
     def longestConsecutive(self, nums: list[int]) -> int:
         if not nums:
             return 0
-
-
         nums.sort()
         current = 1
         longest = 1
