@@ -1,5 +1,6 @@
 class Solution:
     def reverseString(self, s: list[str]) -> None:
+        
        left, right = 0, len(s) - 1
         
        while left < right:
